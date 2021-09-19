@@ -1,0 +1,35 @@
+#header-text{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#span-text{
+    color: blue;
+}
+
+.login-form{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.button {
+    transition-duration: 0.4s;
+  }
+  
+  .button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+
+.button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button{
+    background-color:blueviolet;
+    color: #000;
+    font-size: 15px;
+    border-radius: 6px;
+}
+
+
